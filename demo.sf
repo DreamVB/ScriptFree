@@ -1,0 +1,29 @@
+# Print Hello
+111 108 108 101 72 emit emit emit emit emit cr
+# RPN Examples
+pi print cr
+#Varaible test
+25 A = 25 B = A B + print cr
+A 10 + print cr
+22 4 / int print cr
+pi 10 dup  * * print cr
+5 1 2 + 4 * + 3 - print cr
+10 20 swap - print cr
+10 12 xor print cr
+100 150 min print cr
+100 log print cr
+e dup + print cr
+3.3 sqrt pi * print cr
+2.5 2 % print cr
+3 sq print cr
+2 exp round print cr
+2 cbrt print cr
+2 cb print cr
+17 12 * 4 + print cr
+2 5 3 over + * print cr
+1024 1 invert + print cr
+1 2 3 drop print cr
+6 3 4 rot print print print cr
+2 10 4 - swap / print cr
+10 2 eq print cr
+50 50 eq print cr
